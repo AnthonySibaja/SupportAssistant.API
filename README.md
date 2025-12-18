@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Support Assistant API</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 3px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 15px;
-      overflow-x: auto;
-      border-radius: 6px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-  </style>
-</head>
-<body>
+
 
 <h1>🤖 Support Assistant API</h1>
 
