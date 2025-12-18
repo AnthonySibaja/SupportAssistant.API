@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SupportAssistant.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e6416d061d1e7009d76459a8b80051bca2be5b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+830b7db53decf8cd85b893d1812f9e8a999cfbc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SupportAssistant.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SupportAssistant.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
